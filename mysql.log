@@ -1,0 +1,717 @@
+----------------------- Fri, 16 Nov 12 03:06:25 +0100
+
+INSERT INTO `museum` (
+`name`,
+`name_help`,
+`name_orginal`,
+`catalog`,
+`location`,
+`author`,
+`category`
+)
+VALUES (
+'name'
+'name help',
+'name org',
+'catalog',
+'6',
+'4',
+'2'
+);
+
+	
+	
+Column count doesn't match value count at row 1
+----------------------- Fri, 16 Nov 12 03:07:08 +0100
+
+INSERT INTO `museum` (
+`name`,
+`name_help`,
+`name_orginal`,
+`catalog`,
+`location`,
+`author`,
+`category`
+)
+VALUES (
+''
+'',
+'',
+'',
+'',
+'',
+''
+);
+
+	
+	
+Column count doesn't match value count at row 1
+----------------------- Fri, 16 Nov 12 17:14:48 +0100
+UPDATE `museum` SET 	`title_pl` = '' ,`title_en` = '' ,`data_powstania_pl` = '' ,`data_powstania_en` = 'ee' ,`miejsce_pl` = '',`miejsce_en` = ''
+	,`html_pl` = '',`html_en` = '',`min_html_pl` = '',`min_html_en` = '',`technika_pl` = '',`technika_en` = '',`wymiary_pl` = '',`wymiary_en` = ''
+	,`materialy_pl` = '' ,`materialy_en` = '',`mp3_pl` = '',`mp3_en` = '', `category` = '2',`location` = '6', `author` = '4',`name` = 'Obraz',`catalog` = '1234',`name_help` = 'Obraz',`name_orginal` = 'Obraz'  WHERE `id` = '3' LIMIT 1 ;
+Unknown column 'title_pl' in 'field list'
+----------------------- Fri, 16 Nov 12 18:44:20 +0100
+
+INSERT INTO `museum` (
+`name`,
+`name_help`,
+`name_orginal`,
+`catalog`,
+`location`,
+`author`,
+`category`,
+`img`,
+`img_sk`,
+`min_img_sk`,
+`category`,
+`img1`,
+`img2`,
+`img3`,
+`img4`,
+`img5`,
+`img_map`,
+
+`title_pl`,
+`title_en`,
+`data_powstania_pl`,
+`data_powstania_en`,
+`miejsce_pl`,
+`miejsce_en`,
+`html_pl`,
+`html_en`,
+`min_html_pl`,
+`min_html_en`,
+`technika_pl`,
+`technika_en`,
+`wymiary_pl`,
+`wymiary_en`,
+`materialy_pl`,
+`materialy_en`
+
+)
+VALUES (
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'rtrt',
+'rt',
+'rt'
+
+
+);
+
+	
+	
+Column count doesn't match value count at row 1
+----------------------- Fri, 16 Nov 12 19:00:16 +0100
+
+INSERT INTO `museum` (
+`name` ,
+`name_help` ,
+`name_orginal` ,
+`location` ,
+`author` ,
+`catalog` ,
+`category` ,
+`img` ,
+`img_sk` ,
+`min_img_sk` ,
+`img1` ,
+`img2` ,
+`img3` ,
+`img4` ,
+`img5` ,
+`img_map` ,
+`title_pl` ,
+`title_en` ,
+`data_powstania_pl` ,
+`data_powstania_en` ,
+`miejsce_pl` ,
+`miejsce_en` ,
+`html_pl` ,
+`html_en` ,
+`min_html_pl` ,
+`min_html_en` ,
+`technika_pl` ,
+`technika_en` ,
+`wymiary_pl` ,
+`wymiary_en` ,
+`materialy_pl` ,
+`materialy_en` ,
+`mp3_pl` ,
+`mp3_en` ,
+`data_update`
+
+)
+VALUES (
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+''
+
+
+);
+
+	
+	
+Column count doesn't match value count at row 1
+----------------------- Fri, 16 Nov 12 19:00:52 +0100
+
+INSERT INTO `museum` (
+`name` ,
+`name_help` ,
+`name_orginal` ,
+`location` ,
+`author` ,
+`catalog` ,
+`category` ,
+`img` ,
+`img_sk` ,
+`min_img_sk` ,
+`img1` ,
+`img2` ,
+`img3` ,
+`img4` ,
+`img5` ,
+`img_map` ,
+`title_pl` ,
+`title_en` ,
+`data_powstania_pl` ,
+`data_powstania_en` ,
+`miejsce_pl` ,
+`miejsce_en` ,
+`html_pl` ,
+`html_en` ,
+`min_html_pl` ,
+`min_html_en` ,
+`technika_pl` ,
+`technika_en` ,
+`wymiary_pl` ,
+`wymiary_en` ,
+`materialy_pl` ,
+`materialy_en` ,
+`mp3_pl` ,
+`mp3_en` 
+)
+VALUES (
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+''
+
+
+);
+
+	
+	
+Column count doesn't match value count at row 1
+----------------------- Fri, 16 Nov 12 19:01:40 +0100
+
+INSERT INTO `museum` (
+`name` ,
+`name_help` ,
+`name_orginal` ,
+`location` ,
+`author` ,
+`catalog` ,
+`category` ,
+`img` ,
+`img_sk` ,
+`min_img_sk` ,
+`img1` ,
+`img2` ,
+`img3` ,
+`img4` ,
+`img5` ,
+`img_map` ,
+`title_pl` ,
+`title_en` ,
+`data_powstania_pl` ,
+`data_powstania_en` ,
+`miejsce_pl` ,
+`miejsce_en` ,
+`html_pl` ,
+`html_en` ,
+`min_html_pl` ,
+`min_html_en` ,
+`technika_pl` ,
+`technika_en` ,
+`wymiary_pl` ,
+`wymiary_en` ,
+`materialy_pl` ,
+`materialy_en` ,
+`mp3_pl` ,
+`mp3_en` 
+)
+VALUES (
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',''
+
+
+);
+
+	
+	
+Column count doesn't match value count at row 1
+----------------------- Fri, 16 Nov 12 19:49:57 +0100
+
+INSERT INTO `museum` (
+`name` ,
+`name_help` ,
+`name_orginal` ,
+`location` ,
+`author` ,
+`catalog` ,
+`category` ,
+`img` ,
+`img_sk` ,
+`min_img_sk` ,
+`img1` ,
+`img2` ,
+`img3` ,
+`img4` ,
+`img5` ,
+`img_map` ,
+`title_pl` ,
+`title_en` ,
+`data_powstania_pl` ,
+`data_powstania_en` ,
+`miejsce_pl` ,
+`miejsce_en` ,
+`html_pl` ,
+`html_en` ,
+`min_html_pl` ,
+`min_html_en` ,
+`technika_pl` ,
+`technika_en` ,
+`wymiary_pl` ,
+`wymiary_en` ,
+`materialy_pl` ,
+`materialy_en` ,
+`mp3_pl` ,
+`mp3_en` 
+)
+VALUES (
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+''
+
+
+);
+
+	
+	
+Column count doesn't match value count at row 1
+----------------------- Fri, 16 Nov 12 19:49:58 +0100
+
+INSERT INTO `museum` (
+`name` ,
+`name_help` ,
+`name_orginal` ,
+`location` ,
+`author` ,
+`catalog` ,
+`category` ,
+`img` ,
+`img_sk` ,
+`min_img_sk` ,
+`img1` ,
+`img2` ,
+`img3` ,
+`img4` ,
+`img5` ,
+`img_map` ,
+`title_pl` ,
+`title_en` ,
+`data_powstania_pl` ,
+`data_powstania_en` ,
+`miejsce_pl` ,
+`miejsce_en` ,
+`html_pl` ,
+`html_en` ,
+`min_html_pl` ,
+`min_html_en` ,
+`technika_pl` ,
+`technika_en` ,
+`wymiary_pl` ,
+`wymiary_en` ,
+`materialy_pl` ,
+`materialy_en` ,
+`mp3_pl` ,
+`mp3_en` 
+)
+VALUES (
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+'',
+''
+
+
+);
+
+	
+	
+Column count doesn't match value count at row 1
+----------------------- Fri, 16 Nov 12 21:52:20 +0100
+SELECT * FROM `moseum` WHERE date_edit >= '' ORDER by date_edit ASC
+Table 'gpsguide.moseum' doesn't exist
+----------------------- Fri, 16 Nov 12 21:52:45 +0100
+SELECT * FROM `moseum` WHERE date_edit >= '' ORDER by date_edit ASC
+Table 'gpsguide.moseum' doesn't exist
+----------------------- Sat, 17 Nov 12 01:21:07 +0100
+SELECT *,(SELECT name_pl FROM museum WHERE id=museum.category) as category_name_pl,(SELECT name_en FROM museum WHERE id=museum.category) as category_name_en FROM `museum` WHERE date_edit >= '2012-11-16' ORDER by date_edit ASC
+Unknown column 'name_pl' in 'field list'
+----------------------- Sat, 17 Nov 12 01:25:04 +0100
+SELECT *,
+		(SELECT name_pl FROM museum_category WHERE id=museum.category) as category_name_pl,
+	(SELECT name_en FROM museum_category WHERE id=museum.category) as category_name_pl,
+(SELECT name_pl FROM museum_author WHERE id=museum.author) as author_name_pl,
+(SELECT name_en FROM museum_author WHERE id=museum.author) as author_name_en,
+(SELECT name_pl FROM museum_location WHERE id=museum.location) as location_name_pl,
+(SELECT name_en FROM museum_location WHERE id=museum.location) as location_name_pl,
+			
+			
+			 FROM `museum` WHERE date_edit >= '2012-11-16' ORDER by date_edit ASC
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM `museum` WHERE date_edit >= '2012-11-16' ORDER by date_edit ASC' at line 10
+----------------------- Sat, 17 Nov 12 01:27:52 +0100
+SELECT *,
+		(SELECT name_pl FROM museum_category WHERE id=museum.category) as category_name_pl,
+	(SELECT name_en FROM museum_category WHERE id=museum.category) as category_name_en,
+(SELECT name_pl FROM museum_author WHERE id=museum.author) as author_name_pl,
+(SELECT name_en FROM museum_author WHERE id=museum.author) as author_name_en,
+(SELECT img FROM museum_author WHERE id=museum.author) as author_img,
+
+
+(SELECT name_orginal FROM museum_author WHERE id=museum.author) as author_name_orginal,
+(SELECT html FROM museum_author WHERE id=museum.author) as author_html,
+
+
+(SELECT name_pl FROM museum_location WHERE id=museum.location) as location_name_pl,
+(SELECT name_en FROM museum_location WHERE id=museum.location) as location_name_en
+			
+			
+			 FROM `museum` WHERE date_edit >= '2012-11-16' ORDER by date_edit ASC
+Unknown column 'html' in 'field list'
+----------------------- Thu, 04 Apr 13 20:43:58 -0500
+SELECT * FROM `museum_location` WHERE 
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+----------------------- Thu, 04 Apr 13 20:44:21 -0500
+SELECT * FROM `museum_location` WHERE 
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+----------------------- Thu, 04 Apr 13 20:44:40 -0500
+SELECT * FROM `museum_location` WHERE 
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+----------------------- Thu, 04 Apr 13 20:44:46 -0500
+SELECT * FROM `museum_location` WHERE 
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+----------------------- Thu, 04 Apr 13 20:45:03 -0500
+SELECT * FROM `museum_location` WHERE 
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+----------------------- Thu, 04 Apr 13 20:45:05 -0500
+SELECT * FROM `museum_location` WHERE 
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+----------------------- Thu, 04 Apr 13 20:45:56 -0500
+SELECT * FROM `museum_location` WHERE 
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+----------------------- Thu, 04 Apr 13 20:46:46 -0500
+SELECT * FROM `museum_location` WHERE 
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+----------------------- Thu, 04 Apr 13 21:05:25 -0500
+SELECT * FROM `museum_location` WHERE id IN ( 0,8,9,10,11, )  
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+----------------------- Thu, 04 Apr 13 21:06:33 -0500
+SELECT * FROM `museum_location` WHERE id IN ( substr(0,8,9,10,11,, 0, -1); )  
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '10,11,, 0, -1); )' at line 1
+----------------------- Thu, 04 Apr 13 21:06:35 -0500
+SELECT * FROM `museum_location` WHERE id IN ( substr(0,8,9,10,11,, 0, -1); )  
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '10,11,, 0, -1); )' at line 1
+----------------------- Thu, 04 Apr 13 21:06:45 -0500
+SELECT * FROM `museum_location` WHERE id IN ( substr(0,8,9,10,11,, 0, -1) )  
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '10,11,, 0, -1) )' at line 1
+----------------------- Sat, 06 Apr 13 23:20:16 +0200
+SELECT * FROM `museum_location` WHERE id IN (  )  
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+----------------------- Sat, 06 Apr 13 23:20:16 +0200
+SELECT * FROM `museum_author` WHERE id IN (  )  
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+----------------------- Sat, 06 Apr 13 16:20:47 -0500
+SELECT * FROM `museum_location` WHERE id IN (  )  
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+----------------------- Sat, 06 Apr 13 16:20:47 -0500
+SELECT * FROM `museum_author` WHERE id IN (  )  
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+----------------------- Sat, 06 Apr 13 16:20:52 -0500
+SELECT * FROM `museum_location` WHERE id IN (  )  
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+----------------------- Sat, 06 Apr 13 16:20:52 -0500
+SELECT * FROM `museum_author` WHERE id IN (  )  
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+----------------------- Sat, 06 Apr 13 16:21:45 -0500
+SELECT * FROM `museum_location` WHERE id IN (  )  
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+----------------------- Sat, 06 Apr 13 16:21:45 -0500
+SELECT * FROM `museum_author` WHERE id IN (  )  
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+----------------------- Sat, 06 Apr 13 16:21:49 -0500
+SELECT * FROM `museum_location` WHERE id IN (  )  
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+----------------------- Sat, 06 Apr 13 16:21:49 -0500
+SELECT * FROM `museum_author` WHERE id IN (  )  
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+----------------------- Sat, 06 Apr 13 23:22:11 +0200
+SELECT * FROM `museum_location` WHERE id IN (  )  
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+----------------------- Sat, 06 Apr 13 23:22:11 +0200
+SELECT * FROM `museum_author` WHERE id IN (  )  
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+----------------------- Sat, 06 Apr 13 16:22:28 -0500
+SELECT * FROM `museum_location` WHERE id IN (  )  
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+----------------------- Sat, 06 Apr 13 16:22:28 -0500
+SELECT * FROM `museum_author` WHERE id IN (  )  
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+----------------------- Sat, 06 Apr 13 23:23:01 +0200
+SELECT * FROM `museum_location` WHERE id IN (  )  
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+----------------------- Sat, 06 Apr 13 23:23:01 +0200
+SELECT * FROM `museum_author` WHERE id IN (  )  
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+----------------------- Sat, 06 Apr 13 23:23:05 +0200
+SELECT * FROM `museum_location` WHERE id IN (  )  
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+----------------------- Sat, 06 Apr 13 23:23:05 +0200
+SELECT * FROM `museum_author` WHERE id IN (  )  
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+----------------------- Sat, 06 Apr 13 16:23:31 -0500
+SELECT * FROM `museum_location` WHERE id IN (  )  
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+----------------------- Sat, 06 Apr 13 16:23:31 -0500
+SELECT * FROM `museum_author` WHERE id IN (  )  
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+----------------------- Sat, 06 Apr 13 16:23:53 -0500
+SELECT * FROM `museum_location` WHERE id IN (  )  
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+----------------------- Sat, 06 Apr 13 16:23:53 -0500
+SELECT * FROM `museum_author` WHERE id IN (  )  
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+----------------------- Sat, 06 Apr 13 16:23:56 -0500
+SELECT * FROM `museum_location` WHERE id IN (  )  
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+----------------------- Sat, 06 Apr 13 16:23:56 -0500
+SELECT * FROM `museum_author` WHERE id IN (  )  
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+----------------------- Sat, 06 Apr 13 16:24:03 -0500
+SELECT * FROM `museum_location` WHERE id IN (  )  
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+----------------------- Sat, 06 Apr 13 16:24:03 -0500
+SELECT * FROM `museum_author` WHERE id IN (  )  
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+----------------------- Sat, 06 Apr 13 23:24:36 +0200
+SELECT * FROM `museum_location` WHERE id IN (  )  
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+----------------------- Sat, 06 Apr 13 23:24:36 +0200
+SELECT * FROM `museum_author` WHERE id IN (  )  
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+----------------------- Sat, 06 Apr 13 23:25:02 +0200
+SELECT * FROM `museum_location` WHERE id IN (  )  
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+----------------------- Sat, 06 Apr 13 23:25:02 +0200
+SELECT * FROM `museum_author` WHERE id IN (  )  
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+----------------------- Sun, 07 Apr 13 15:25:26 +0200
+SELECT * FROM `museum_location` WHERE id IN (  )  
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+----------------------- Sun, 07 Apr 13 15:25:26 +0200
+SELECT * FROM `museum_author` WHERE id IN (  )  
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+----------------------- Thu, 11 Apr 13 13:25:49 +0200
+SELECT * FROM `museum_location` WHERE id IN ( ,,,, )  
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ',,, )' at line 1
+----------------------- Fri, 12 Apr 13 10:03:32 -0500
+SELECT *,(SELECT time FROM usr WHERE user=u.user ORDER by time DESC LIMIT 1) as nt,(SELECT name FROM usr WHERE user=u.user and name !='' ORDER by time DESC LIMIT 1) as nn FROM `usr` u GROUP BY `user` LIMIT ,
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+----------------------- Fri, 12 Apr 13 17:04:46 +0200
+SELECT *,  FROM `museum`
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM `museum`' at line 1
+----------------------- Fri, 12 Apr 13 17:04:47 +0200
+SELECT *,  FROM `museum`
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM `museum`' at line 1
+----------------------- Fri, 12 Apr 13 10:09:56 -0500
+SELECT *,(SELECT name_orginal FROM museum_author id=museum.author) as author FROM `museum`
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=museum.author) as author FROM `museum`' at line 1
+----------------------- Sun, 21 Apr 13 21:24:23 +0200
+SELECT id,title_pl,data_powstania_pl,html_pl,technika_pl,catalog,category,img (SELECT name_orginal FROM museum_author WHERE id =museum.author) as author FROM `museum` WHERE category = '4' 
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECT name_orginal FROM museum_author WHERE id =museum.author) as author FROM `' at line 1
+----------------------- Sun, 21 Apr 13 21:24:24 +0200
+SELECT id,title_pl,data_powstania_pl,html_pl,technika_pl,catalog,category,img (SELECT name_orginal FROM museum_author WHERE id =museum.author) as author FROM `museum` WHERE category = '4' 
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECT name_orginal FROM museum_author WHERE id =museum.author) as author FROM `' at line 1
